@@ -14,12 +14,12 @@
         <string>KeepingYouAwake</string>
         <key>pkginfo</key>
         <dict>
-	        <key>blocking_applications</key>
+	    <key>blocking_applications</key>
 			<array>
 				<string>KeepingYouAwake</string>
 			</array>
-			<key>category</key>
-			<string></string>
+	    <key>category</key>
+	    <string></string>
             <key>catalogs</key>
             <array>
                 <string>testing</string>
@@ -33,13 +33,13 @@
             <key>unattended_install</key>
             <true/>
             <key>developer</key>
-			<string>Marcel Dierkes</string>
+	    <string>Marcel Dierkes</string>
         </dict>
     </dict>
     <key>MinimumVersion</key>
     <string>1.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.JaniTee.download.Viscosity</string>
+    <string>com.github.JaniTee.download.KeepingYouAwake</string>
     <key>Process</key>
     <array>
         <dict>
